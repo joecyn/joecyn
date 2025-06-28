@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Johana Gitari
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning nodejs,react,python
+- 👀 I’m interested in all things IT
+- 🌱 I’m currently learning nodejs,express,mongodb,react,python
 
 
 <!---
